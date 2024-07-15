@@ -9,7 +9,7 @@
 
 ### Let's connect!
 <p>
-    <a href="https://blog.febra.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://blog.febra.my.id-green?" /></a>
+    <a href="https://blog.febra.my.id" target="blank"><img src="https://img.shields.io/badge/Blog-https://blog.febra.my.id-green?" /></a>
     <a href="https://www.linkedin.com/in/febra/" target="blank"><img src="https://img.shields.io/badge/Febra-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://www.paypal.me/sekdafebra" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
