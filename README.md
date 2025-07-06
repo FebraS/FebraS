@@ -3,7 +3,7 @@
 I'm Febra, cyber security enthusiast from Indonesia, and currently working on a particular educational institution.
 
 
-### I’m currently learning :
+### I’m currently learning
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />&nbsp;&nbsp;
 
@@ -14,7 +14,7 @@ I'm Febra, cyber security enthusiast from Indonesia, and currently working on a 
 * [Analisis Lebih Dalam Tentang Undangan Pernikahan.apk](https://blog.febra.my.id/2024/06/analisis-lebih-dalam-tentang-undangan-pernikahan-apk.html)
 
 ## Featured Projects
-- **[Dapodik Auth Retriever](https://github.com/FebraS/dapodik-Auth-Retriever)**: a utility tool that helps authorized users to recover authentication credentials on the Dapodik system.
+- **[Dapodik Auth Retriever](https://github.com/FebraS/dapodik-Auth-Retriever) :** a utility tool that helps authorized users to recover authentication credentials on the Dapodik system.
 
 ## Github Statistic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febras&layout=compact&theme=dracula)
