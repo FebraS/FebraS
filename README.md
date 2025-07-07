@@ -16,12 +16,25 @@ I'm Febra, cyber security enthusiast from Indonesia, and currently working on a 
 ## Featured Projects
 - **[Dapodik Auth Retriever](https://github.com/FebraS/dapodik-Auth-Retriever) :** a tool to recover authentication credentials from the Dapodik system.
 
+## DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+## Security Tools & Platforms
+<p align="left">
+    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />  
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
 ## Github Statistic
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febras&layout=compact&theme=dracula)
 
 ### Let's Connect!
 <p>
-    <a href="https://www.linkedin.com/in/febra/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
-    <a href="mailto:sekda@febra.my.id" target="blank"> <img src="https://img.shields.io/badge/Email-sekda@febra.my.id-green?style=flat-square&logo=gmail"</a>
+    <a href="mailto:sekda@febra.my.id"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://linkedin.com/in/febra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
