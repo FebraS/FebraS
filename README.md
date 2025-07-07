@@ -1,6 +1,7 @@
 # Hello World 👋
 
-I'm Febra, cyber security enthusiast from Indonesia, and currently working on a particular educational institution.
+I'm Febra, a cybersecurity enthusiast from Indonesia, and currently working on a particular educational institution. 
+I enjoy delving into reverse engineering and binary exploitation.
 
 
 ### I’m currently learning
