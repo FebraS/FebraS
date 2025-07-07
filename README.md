@@ -1,8 +1,6 @@
 # Hello World 👋
 
-I'm Febra, a cybersecurity enthusiast from Indonesia, and currently working on a particular educational institution. 
-I enjoy delving into reverse engineering and binary exploitation.
-
+I'm Febra, a dedicated cybersecurity enthusiast hailing from Indonesia, currently contributing my skills and knowledge at a distinguished educational institution. My professional journey is driven by a profound passion for uncovering the intricacies of software - specifically, I thrive on delving deep into the challenging realms of reverse engineering and binary exploitation, where I explore the hidden mechanics and potential vulnerabilities within complex systems.
 
 ### I’m currently learning
 
