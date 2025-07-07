@@ -14,7 +14,7 @@ I'm Febra, cyber security enthusiast from Indonesia, and currently working on a 
 * [Analisis Lebih Dalam Tentang Undangan Pernikahan.apk](https://blog.febra.my.id/2024/06/analisis-lebih-dalam-tentang-undangan-pernikahan-apk.html)
 
 ## Featured Projects
-- **[Dapodik Auth Retriever](https://github.com/FebraS/dapodik-Auth-Retriever) :** a tool to recover authentication credentials from the Dapodik system.
+- **[Dapodik Auth Retriever](https://github.com/FebraS/dapodik-Auth-Retriever) :**
 
 ## DevOps & Tools
 <p align="left">
