@@ -4,7 +4,7 @@ I'm Febra, a dedicated cybersecurity enthusiast hailing from Indonesia, currentl
 
 ### I’m currently learning
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
 
 ## Latest Blog Post
 * [Death Bed Challenge: Petualangan Menemukan Lokasi Asli Sebuah Foto](https://blog.febra.my.id/2024/09/death-bed-challenge-petualangan-menemukan-lokasi-asli-sebuah-foto.html)
