@@ -14,6 +14,7 @@ I'm Febra, a dedicated cybersecurity enthusiast hailing from Indonesia, currentl
 
 ## Featured Projects
 - **[Dapodik Auth Retriever](https://github.com/FebraS/dapodik-Auth-Retriever)**
+- **[PyAte](https://github.com/FebraS/PyAte)**
 
 ## DevOps & Tools
 <p align="left">
