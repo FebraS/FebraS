@@ -29,9 +29,6 @@ I'm Febra, a dedicated cybersecurity enthusiast hailing from Indonesia, currentl
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 </p>
 
-## Github Statistic
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=febras&layout=compact&theme=dracula)
-
 ### Let's Connect!
 <p>
     <a href="mailto:sekda@febra.my.id"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
