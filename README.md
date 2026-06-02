@@ -7,10 +7,10 @@ I'm Febra, a dedicated cybersecurity enthusiast hailing from Indonesia, currentl
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
 
 ## Latest Blog Post
-* [Death Bed Challenge: Petualangan Menemukan Lokasi Asli Sebuah Foto](https://blog.febra.my.id/2024/09/death-bed-challenge-petualangan-menemukan-lokasi-asli-sebuah-foto.html)
-* [Skill Issue Challenge: Stasiun Balapan](https://blog.febra.my.id/2024/08/skill-issue-challenge-stasiun-balapan.html)
-* [Mengelabui Mekanisme Pendeteksi Browser CBT Dengan User Agent Spoofing](https://blog.febra.my.id/2024/06/mengelabui-mekanisme-pendeteksi-browser-cbt-dengan-user-agent-spoofing.html)
-* [Analisis Lebih Dalam Tentang Undangan Pernikahan.apk](https://blog.febra.my.id/2024/06/analisis-lebih-dalam-tentang-undangan-pernikahan-apk.html)
+* [Death Bed Challenge: Petualangan Menemukan Lokasi Asli Sebuah Foto](https://blog.febra.web.id/2024/09/death-bed-challenge-petualangan-menemukan-lokasi-asli-sebuah-foto.html)
+* [Skill Issue Challenge: Stasiun Balapan](https://blog.febra.web.id/2024/08/skill-issue-challenge-stasiun-balapan.html)
+* [Mengelabui Mekanisme Pendeteksi Browser CBT Dengan User Agent Spoofing](https://blog.febra.web.id/2024/06/mengelabui-mekanisme-pendeteksi-browser-cbt-dengan-user-agent-spoofing.html)
+* [Analisis Lebih Dalam Tentang Undangan Pernikahan.apk](https://blog.febra.web.id/2024/06/analisis-lebih-dalam-tentang-undangan-pernikahan-apk.html)
 
 ## Featured Projects
 - **[PosFlow AI](https://github.com/FebraS/PosFlowAI)**
