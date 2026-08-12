@@ -6,6 +6,7 @@ I am a self-taught programmer and a cybersecurity enthusiast who is just getting
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Latest Blog Post
+* [Antara Logika Sisi Klien dan Integritas Manusia: Pelajaran Teknis di Balik Maraknya Kasus Absensi Ilegal](https://blog.febra.web.id/2026/08/antara-logika-sisi-klien-dan-integritas-manusia-pelajaran-teknis-di-balik-maraknya-kasus-absensi-ilegal.html)
 * [Death Bed Challenge: Petualangan Menemukan Lokasi Asli Sebuah Foto](https://blog.febra.web.id/2024/09/death-bed-challenge-petualangan-menemukan-lokasi-asli-sebuah-foto.html)
 * [Skill Issue Challenge: Stasiun Balapan](https://blog.febra.web.id/2024/08/skill-issue-challenge-stasiun-balapan.html)
 * [Mengelabui Mekanisme Pendeteksi Browser CBT Dengan User Agent Spoofing](https://blog.febra.web.id/2024/06/mengelabui-mekanisme-pendeteksi-browser-cbt-dengan-user-agent-spoofing.html)
