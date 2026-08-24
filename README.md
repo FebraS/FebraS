@@ -3,7 +3,7 @@
 I am a self-taught programmer and a cybersecurity enthusiast who is just getting started. I don't have years of experience or a formal background, but I have a huge curiosity for how things work and how they break. Right now, I am focusing on learning the basics of reverse engineering and binary exploitation. Everything here is part of my learning journey as I explore the hidden mechanics and vulnerabilities within systems. I'm still figuring things out, breaking stuff, and learning from my mistakes!
 
 ### I’m currently learning
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## Latest Blog Post
 * [Antara Logika Sisi Klien dan Integritas Manusia: Pelajaran Teknis di Balik Maraknya Kasus Absensi Ilegal](https://blog.febra.web.id/2026/08/antara-logika-sisi-klien-dan-integritas-manusia-pelajaran-teknis-di-balik-maraknya-kasus-absensi-ilegal.html)
