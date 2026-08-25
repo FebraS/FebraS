@@ -13,7 +13,8 @@ I am a self-taught programmer and a cybersecurity enthusiast who is just getting
 * [Analisis Lebih Dalam Tentang Undangan Pernikahan.apk](https://blog.febra.web.id/2024/06/analisis-lebih-dalam-tentang-undangan-pernikahan-apk.html)
 
 ## Featured Projects
-- **[Sota](https://github.com/FebraS/sota)**A high-performance command-line utility built in Go for managing and decoding multi-account migration QR codes.
+- **[Sota](https://github.com/FebraS/sota)**
+A high-performance command-line utility built in Go for managing and decoding multi-account migration QR codes.
 
 ## Tools & Ecosystem
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
